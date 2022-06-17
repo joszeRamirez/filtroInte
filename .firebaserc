@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "filtrointer": {
+      "hosting": {
+        "filtroInter": [
+          "filtrointer"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "filtrointer"
+  }
+}
